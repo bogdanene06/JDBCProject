@@ -25,12 +25,12 @@ I added functionalities with constant parameters for creating and deleting the d
 Create a database named exercises.
 Update the MySQL user credentials in the config.ConnectionAttributes class.
 
-3. **Features**
+## **Features**
 Create, Read, Update, Delete (CRUD) operations on a MySQL database.
 Handles cases where the database or table does not exist.
 Provides feedback when the user ID does not exist in the database.
 
-4. ""Description of the Classes and Methods**
+## ""Description of the Classes and Methods**
 
 Main
 Main class: Entry point of the application. It initializes the main menu options and handles user inputs to perform CRUD operations on the MySQL database using JDBC.
@@ -78,7 +78,7 @@ URL: String
 USER: String
 PASSWORD: String
 
-5. **How to Use**
+## **How to Use**
 Run the application: Follow the setup instructions and run the Main class.
 
 Perform CRUD operations: The application will prompt you for inputs to perform various CRUD operations on the users table.
