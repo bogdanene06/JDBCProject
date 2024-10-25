@@ -19,7 +19,7 @@ I added functionalities with constant parameters for creating and deleting the d
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/bogdanene06/JDBCProject.git
-   cd your-repo-name
+   cd JDBCProject
 
 2. **Set up MySQL:**
 Create a database named exercises.
